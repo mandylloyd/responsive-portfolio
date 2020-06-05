@@ -14,6 +14,54 @@ ul.nav a {
     color: grey;
 }
 
+#gaming-img{
+	background-image: url("https://as2.ftcdn.net/jpg/01/20/20/69/500_F_120206970_7teNr7ijbbJjibkbWvT0K58D73yBqlHn.jpg");
+	background-size: cover;
+	height: 300px;
+	width: 300px;
+}
+
+#traveling-img{
+	background-image: url("https://data.whicdn.com/images/308645816/original.jpg?t=1520614413");
+	background-size: cover;
+	height: 300px;
+	width: 300px;
+}
+
+#cooking-img{
+	background-image: url("https://res.cloudinary.com/hksqkdlah/image/upload/v1564514277/New%20CIO%20Buying%20Guides/190807_VegetarianCooking_Square.jpg");
+	background-size: cover;
+	height: 300px;
+	width: 300px;
+}
+
+#yoga-img{
+	background-image: url("https://www.holisticnurture.com/wp-content/uploads/2016/09/o-MEDITATION-facebook-300x300.jpg");
+	background-size: cover;
+	height: 300px;
+	width: 300px;
+}
+
+#beach-img{
+	background-image: url("https://previews.123rf.com/images/farang/farang1208/farang120800008/14837149-book-with-a-seashell-on-the-bamboo-chair-at-the-beach-square-composition-.jpg");
+	background-size: cover;
+	height: 300px;
+	width: 300px;
+}
+
+
+
+#my-image-text{
+	position: absolute;
+	bottom: 30px;
+    width: 300px;
+    height: 50px;
+    background-color: aqua;
+    text-align: center;
+    text-align: middle;
+    color: white;
+    
+}
 /* .container-fluid {
     padding-left: 40px;
     padding-right: 40px;
